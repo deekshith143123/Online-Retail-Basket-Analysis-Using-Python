@@ -118,8 +118,8 @@ If a customer buys ['butter'], they are likely to buy ['jam'] (confidence: 0.65)
 ## 👨‍💻 Author
 
 **Reddy Deekshith**  
-📧 your-email@example.com  
-🌐 https://github.com/your-github-username
+📧 E-Mail:reddydeekshith45@gmail.com
+🌐 Git-Hub:https://github.com/deekshith143123
 
 ---
 
